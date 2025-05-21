@@ -3,7 +3,7 @@
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
 ## Description
-this module will crete an automatic line in the cash statement upon registration of a cash payment
+this module will create an automatic line in the cash statement upon registration of a cash payment
 
 
 ## Installation
